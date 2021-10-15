@@ -1,0 +1,20 @@
+{
+  "name": "fields-api-demo-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.jpg.com/nhall/fields-api-demo-nodejs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
